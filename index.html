@@ -4,7 +4,7 @@ title: Joad
 ---
 
 <div id="home">
-  {% for post in site.posts %}
+  {% for post in site.posts reversed %}
     {{ post.content }}
   {% endfor %}
 </div>
