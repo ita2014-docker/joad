@@ -1,4 +1,4 @@
-## Joad
+# Joad
 
 Joadのポータルサイトを作成するリポジトリです。GitHub PagesのJekyllを利用しています。
 
