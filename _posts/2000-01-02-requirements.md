@@ -1,4 +1,4 @@
-## Requirements
+# Requirements
 
 * Docker（バージョン1.3.3以上）がインストールされていること
 * DockerがリモートAPIを受け付けるように設定されていること
